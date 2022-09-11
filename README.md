@@ -1,6 +1,9 @@
 # Predicting Short-Term Rental Prices in NYC
 As a property management company, making estimations of property prices are essential to the success of the business. To this end, a machine learning model is employed to predict short-term rental prices in New York City based on rental prices of similar properties. The model is updated weekly with new data to reflect current estimate of the market.   
 
+### Metrics and Model Registry
+- [`Weights and Biases`: nyc_airbnb](https://wandb.ai/jhonsen/nyc_airbnb/overview?workspace=user-jhonsen)
+
 ### Repository structure
 ```
 .
